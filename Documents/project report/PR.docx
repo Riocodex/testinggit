@@ -177,7 +177,7 @@ both sets of strategies will offer deeply analyzed representation of the topic "
 
 The range of activities we cover will focus on the creation and operation of a digital art gallery with NFT marketplace seamless connection. At first, the project will focus on a technical side to launch certain essential features required for artists to upload offline artworks and for enthusiasts to explore NFTs and bid safely. This stage will be the first to provide the conceptual platform upon which all the various blocks of our digital art distribution and ownership will be built.
 
-Programming the digital art exhibition with the NFT marketplace integration is a protracted, intricate process, and may bring time issues into the equation. Furthermore, along with the sophistication of blockchain technology and contract of the smart, the project team members will most likely have to study the technology in order to implement it properly, meaning that there will be delays in the development timelines.
+Programming the digital art exhibition with the NFT marketplace integration is a protracted, intricate process, and may bring time issues into the equation (Lee, 2023). Furthermore, along with the sophistication of blockchain technology and contract of the smart, the project team members will most likely have to study the technology in order to implement it properly, meaning that there will be delays in the development timelines.
 
 Another drawback is the question about the limitation of scalability of AI. With time, scaling the platform to work for a growing number of artworks and users might pass through stages as they offer technical challenges. One of the main challenges of the platform’s sustainability is to supply its scalability and performance capabilities as the user load grows, which can be executed through constant backend infrastructure and database management improvement and optimization.
 
@@ -200,7 +200,6 @@ Chapter 4, as well as, is dedicated to the student's DSE experience in digital a
 
 Chapter 5: To be brief about my Findings and Discussion
 This chapter will delve on the summaries of laboratory work and draws a meaningful conclusion which is accrued based on the specific statistical outcomes. It aims to catalysking the good impression of the artists, patrons, global investment and ultimately the blockchain-based digital art venue. Initially makes critical evaluation of the ways and methodologies deployed in the events or trials.
-
 Chapter 6: Conclusion
 The last chapter of the report, mainly presents the conclusion chapter and reiterates the significant findings, maters of concern and success stories. The paper analyses the project’s goal and addresses influence of the discovery for the entire digital community of art. But it lays out data on how the technology can be further developed or research wise.
 
@@ -230,12 +229,13 @@ The section on the Literature Review will look into all the different machine le
 The extremely interesting journey by means of which digital art evolved starts from the recent past and continues through many years and involves a whole bunch of different creativity styles and technological progressions. In the 1950s, digital art emerged as completely new phenomenon that briefly became part of the art history. With the passage of time, it has grown far beyond and has become a major component of digital age by pushing the boundaries of creativity and challenging traditional artistic viewpoints and aesthetics (Drucker, 2013).
 
 
-It is the groundbreaking work of artists, engineers, and technicians who explore capabilities of computers and digital technologies in the 1950's and 1960's that took the roots of digital art. Digitally manipulated images, early CGI, algorithmic art, and computer-aided design traced the path that led to the evolution of digital art into a standalone art form.
+It is the groundbreaking work of artists, engineers, and technicians who explore capabilities of computers and digital technologies in the 1950's and 1960's that took the roots of digital art. ("Digital Art Masters," 2007) Digitally manipulated images, early CGI, algorithmic art, and computer-aided design traced the path that led to the evolution of digital art into a standalone art form.
 
 Among other digital art milestones that have been met, the most significant occurred in the 1970s and 1980s, when computer graphics technique first developed. Stimulated by improvements in computing hardware and software, the digital art now became much more complex, and it brought problems of virtual and real dimensionality (Binkyte, 2023). Right from the onset when digital graphics were used JUST in vector based illustrations and when people used just pixels to create virtual environment, digital art got its footprint into areas for fine art as well as entertainment.
 
 
-The boom of personal computers and the internet in the 1990s paved the way for a new epoch of expanded opportunities and more accessibility in the field of digital art. Artists were given more means to work with electronic tools and online channels for producing, publishing and disseminating their artworks to a place where it used to be impossible before by being available to the wider audience around the globe. The emergence of digital art communities, online galleries, and social media networks enabled the work of many artists, but also provided the basis for collaboration, networking, and exchange of knowledge both for arts enthusiasts and collectors.
+The boom of personal computers and the internet in the 1990s (Banks & Card, 2008)
+paved the way for a new epoch of expanded opportunities and more accessibility in the field of digital art. Artists were given more means to work with electronic tools and online channels for producing, publishing and disseminating their artworks to a place where it used to be impossible before by being available to the wider audience around the globe. The emergence of digital art communities, online galleries, and social media networks enabled the work of many artists, but also provided the basis for collaboration, networking, and exchange of knowledge both for arts enthusiasts and collectors.
 
 In the 21st century's first decade the usage of mobile devices, technologies like augmented reality (AR) and virtual reality (VR) has stroked a new path for digital art by introducing various immersive stories and new experiences which are interactive (Efrat, 2020). Artists began to experiment with the capacity of such technologies to make art that not only avails as a multi-dimensional moving object, but also to smash the border separating time and space, giving viewers an opportunity to connect with the art in a new as well as an experiential way
 
@@ -269,7 +269,7 @@ In a nutshell, the advent of NFTs to the art market seems to be an unparalleled 
 
 2.4 Existing Digital Art Platforms and Marketplaces
 
-Amidst the ever-expanding digital art, many online platforms and marketplaces have sprung up, over which digital arts are created, displayed as well as offered for sale. These flexible channels offers space for variety of artists, patrons, and aficionado; therefore, it creates a habitat that is colored with artistic expression and conversation. Here, we explore some of the prominent digital art platforms and marketplaces:Here, we explore some of the prominent digital art platforms and marketplaces:
+Amidst the ever-expanding digital art, many online platforms and marketplaces have sprung up, over which digital arts are created, displayed as well as offered for sale. These flexible channels offers space for variety of artists, patrons, and aficionado; therefore, it creates a habitat that is colored with artistic expression and conversation. Here, we explore some of the prominent digital art platforms and marketplaces:
 
 OpenSea: OpenSea is among the biggest virtual platforms for NFT exchange as it provides a vast selection of digital collectibles, artworks, and virtual possessions. Artists and creators have the ability to create, mint, and sell their own NFT on OpenSea. Meanwhile, collectors can explore and even purchase onto one of their kind digital paintings from various part of the globe.
 
@@ -333,9 +333,9 @@ Will in our literature review we covered different aspects of the digital art la
 
 Additionally, by doing a thorough research on existing digital art platforms and marketplaces of various genres, we revealed a broad spectrum of places where artists and art lovers may meet. Just as in physical space, where the options range from retail giants like Amazon to the quaint store owned by local artists, the digital realm provides different options that each offer unique features and artists an opportunity to showcase their digital creations.
 
-Furthermore, we noted the blockchain technology on which NFTs are bought and sold which paves a way for the future of the art market. Blockchain ensures safety and authorship of the artworks through the incorruptible ledger system and it provides a clear track record history for digital art keeping art market transparent and honest. The intelligent contracts, which are part of NFTs, make it possible for automated transactions and income payments, which in return encourage artists to commercialise their artwork and get compensated for it as well.
+Furthermore, we noted the blockchain technology on which NFTs are bought and sold which paves a way for the future of the art market. Blockchain ensures safety and authorship of the artworks through the incorruptible ledger system and it provides a clear track record history for digital art keeping art market transparent and honest (Pagnotta, 2022). The intelligent contracts (Gerasimova, Prause, & Hoffmann, 2023), which are part of NFTs, make it possible for automated transactions and income payments, which in return encourage artists to commercialise their artwork and get compensated for it as well.
 
-Lastly, we covered the legal and copyright aspects of NFT art highlighting its significance as a way for artists to manage their intellectual property rights, establishing licensing agreements, chain of title and regulatory compliance together. The NFT market for art has reached a maturity stage in its evolution where artists, collectors, platforms and regulators must cooperate to resolve legal issues to make the digital arts process as responsible as the growth of the ecosystem.
+Lastly, we covered the legal and copyright aspects of NFT art highlighting its significance as a way for artists to manage their intellectual property rights, establishing licensing agreements, chain of title and regulatory compliance together (Murray, 2023). The NFT market for art has reached a maturity stage in its evolution where artists, collectors, platforms and regulators must cooperate to resolve legal issues to make the digital arts process as responsible as the growth of the ecosystem.
 
 Indeed, in this essay review, there are some important issues highlighted that present the artistic and creative realm as one that is constantly subject to change as evidenced by the transformative potential of non-fungible tokens and distributed ledger blockchain technology. With the digital art market destined to shape that future, those who are involved in art and technology have at hand the possibility to be free to pursue their passion.
 
@@ -349,7 +349,7 @@ Indeed, in this essay review, there are some important issues highlighted that p
 
 This section provides an overview of the design and development process of the Digital Art Gallery (DigiMint), focusing on the implementation of non-fungible tokens (NFTs) and blockchain technology in the art marketplace. DigiMint aims to create a decentralized platform for artists to tokenize their digital artworks as NFTs, enabling them to establish ownership rights, provenance, and scarcity, while providing collectors with a secure and transparent marketplace to discover, purchase, and trade digital art.
 
-The development of DigiMint involves several key components, including the creation of smart contracts, the integration of a user-friendly interface for artists and collectors, and the establishment of a robust infrastructure for managing NFTs and transactions on the blockchain. By leveraging blockchain technology, DigiMint seeks to revolutionize the way digital art is created, owned, and exchanged, fostering a vibrant ecosystem for artistic expression and innovation.
+The development of DigiMint involves several key components, including the creation of smart contracts, the integration of a user-friendly interface for artists and collectors, and the establishment of a robust infrastructure for managing NFTs and transactions on the blockchain (Wu, Zou, & Song, 2023). By leveraging blockchain technology, DigiMint seeks to revolutionize the way digital art is created, owned, and exchanged, fostering a vibrant ecosystem for artistic expression and innovation.
 In the subsequent sections, we will delve into the design and development process of DigiMint, discussing the technical architecture, features, and functionalities of the platform, as well as the challenges and considerations involved in its implementation. Through DigiMint, we aim to empower artists to monetize their digital creations, connect with a global audience of collectors, and contribute to the growth and evolution of the digital art market.
 
 
@@ -361,11 +361,11 @@ In the subsequent sections, we will delve into the design and development proces
 
 3.2.1 User Interface and Experience
 
-During the setting up of the Digital Art Gallery (DigiMint), one of the most important choices is which mould of frontend framework for building the user interface you will settle on. Although Django has a lot of advantages, as it is flexible, scalable, and widely supported by the community, ReactJS always takes the lead.
+During the setting up of the Digital Art Gallery (DigiMint), one of the most important choices is which mould of frontend framework for building the user interface you will settle on. For this project i used Reactjs for the development of the frontend application.
 
-React.js provides a simpler solution to building user interfaces that are more flexible, user-friendly, and responsive thanks to the limited number of codes required for such purposes. With utilizing React JS, the developers could be able to do the frontend work swiftly and with iteration, which is really a vital advantage of the project, something that must be completed on time and also lined with user requirements.
+React.js provides a simpler solution to building user interfaces that are more flexible, user-friendly, and responsive thanks to the limited number of codes required for such purposes (Minnick, 2022). With utilizing React JS, the developers could be able to do the frontend work swiftly and with iteration, which is really a vital advantage of the project, something that must be completed on time and also lined with user requirements.
 
-Foundation for Bootstrap, a CSS framework which is popular with developers, works in conjunction with ReactJS by balancing the different architectural aspects such as components and layouts when it comes to responsiveness. The combination of Bootstrap within ReactJS not only promotes a swift UI development but also maintains consistency while delivering content independently of the device used or the screen dimension.
+Foundation for Bootstrap, a CSS framework which is popular with developers (Jensen, 2022), works  in conjunction with ReactJS by balancing the different architectural aspects such as components and layouts when it comes to responsiveness. The combination of Bootstrap within ReactJS not only promotes a swift UI development but also maintains consistency while delivering content independently of the device used or the screen dimension.
 
 Our the choice for ReactJS and its use as the frontend framework for DigiMint is due to several factors. Firstly, react JS form components may structure is ideal for the modularity of web applications because it eases the way of re-using the application's code and maintenance of it. Overall, ReactJS ecosystem is so lively that it puts in place some of the most helpful libraries, tools and community resources.
 
@@ -419,21 +419,7 @@ The User Interface of DigiMint was all about simple, functionality and stunning 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 Figure 1.1 Schematic Representation of UI Structure (plain)
-
-
-
 
 
 
@@ -448,43 +434,7 @@ In Figure 1.1, the UI structure mirrors the layout of DigiMint's homepage, where
 
 NFT Display Section: This part addresses a list of featured on DigiMint NFT. The list is a brief introduction of the digital artworks for viewers to know the wide range of choice they have for selecting NFT.The collection of NFTs can be browsed and bought specifying the button needed depending on how quickly users would like to find the artwork or artworks that they want to buy. The NFT section remains blank and leaves a small text indicating there is no listed NFTs just like in fig 1.1. When NFTs has been listed it changes and displays the NFTs that has been listed just as seen in fig 1.2.
 
-Navbar: Navigation comprises of basic links to different pages like the Home page, the about us page and the upload work page. It also comprises of the connect wallet button. In fig 1.1 the wallet icon remains the same till it connects. When user connects wallet through metamask, the wallet icon changes just like in fig 1.2.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Navbar: Navigation comprises of basic links to different pages like the Home page, the about us page and the upload work page. It also comprises of the connect wallet button. In fig 1.1 the wallet icon remains the same till it connects. When user connects wallet through metamask, the wallet icon changes just like in fig 1
 
 
 
@@ -501,7 +451,6 @@ Navbar: Navigation comprises of basic links to different pages like the Home pag
 
 
 Fig 1.3 About Us Page
-
 
 
 
@@ -580,58 +529,62 @@ The DigiMint project will make use of the expertise of a varied group of technic
 3.4 Implementation Details
 
 
-We put forward a step by step method to actualize the (Digimint) Digital Art Gallery comprising of frontend and back-end development, writing of smart contract, applying blockchain technology in full swing, and testing before launching it to make sure it meets the desired objectives. This paragraph welcomes the readers to the operational details and strategies carried out during the implementation.
 
-Frontend Development:
-The frontend development starting point of DigiMint includes creation of a great interface (UI) utilizing the ReactJS framework together with the Bootstrap maybe frameworks. UI elements are constructed in such a way as to be navigable, to act as drivers of the process, and to be adaptable to different platforms and interactivity interface dimensions. 
+In the execution chain of the Digital art Museum (DigiMint), the development and integration of individual components such as the release of smart contracts to the development of blockchain technology was adopted. Here's an overview of the implementation process:Here's an overview of the implementation process:
 
 
-Smart Contract Deployment:
-Smart contract that regulates the artwork's creation, ownership transfer, and owning are produced under Solidity, a high-level programming language for developing applications or contract for Ethereum. In order to make sure these smart contracts are valid, they are examined for the purposefulness, their security and it is also important to make sure that they follow the rules defined by a company. With the assistance of testing and auditing operations they are deployed on the Ethereum's blockchain network withh Hardhat, making sure their transactions immutability and transparency.
+Smart Contract Development:
 
-Blockchain Integration:
-The firm DiginMint enables users to perform these tokens by using blockchain technology implementation where one can transact NFTs as distributed and transparently in a system. By using the blockchain technology, each digital artwork can be tokenized as NFTs which is a separate and therefore specifically identifiable representation of the artwork registered on the Ethereum blockchain. Interaction with smart contracts and transaction with blockchain layers is carried out in a safe and efficient manner which in turn guarantees unchangeability, trustlessness and no possibility of tampering ownership and transfer of digital assets. 
+Smart contracts of the DigiMint were created to help the platform properly operate. The initial one called NFT is tasked with the management of NFTs, which appear in digital forms. They become the representation of digital arts. Inheriting from ERC721 (Bradic et al., 2022), it enables increment tokens with particular token URIs. The second contract is called Marketplace and is a marketplace where NFTs are bought and sold. It is a decentralized market, hence no need for a third party. It provides the users with opportunities to be the seller of their NFTs and ensures that the NFT trading process is safe.
+
+
+Frontend Integration:
+
+We then made the smart contracts to adopt them in the frontend of the DigiMint using the Ethers.js library. The Ethereum blockchain library offers the API for interacting with smart contracts based on the Ethereum blockchain, which is possible due to its ability to enable the web applications to be integrated with the features of the blockchain (Normans Media Ltd, 2023). The UI was particularly facilitated by the implementation of ReactJS libraries, which provided better flexibility and ease of use. I also made the use of Inter-Planetary File System (IPFS) (Sangeeta & Nam, 2023) to be able to view images of NFT artwork. Images on the blockchain has lots of data hence will give rise to high gas fees. An easy solution I made to this is to saave the images in a url in the blockchain, so instead of actually saving the image in the blockchain I saved the url in that image. So when a user posts an image of their art, they are not actually posting it to the blockchain, they are posting their arts to IPFS and saving the url to that image in the blockchain so wherever their art is, so is the url to the image. I then used javascript and IPFS api to retrive the image from the url for users to view the images.
 
 Testing and Quality Assurance:
-Comprehensive testing approach includes unit testing, integration testing, and full-stack functional testing implemented to check how DigiMint's features perform. The code reviews and the peer program evaluation form part in this process where any issues or risks are pinpointed and corrected during the implementation phase.
 
-Deployment and Maintenance:
-After constructing and testing a prototype, DigiMint is put into the real environment, to make sure that everyone can use it. On-going monitoring together with the adoption of best practices in the field are availble for maintaining stability, security and performance of the platform. Regular updates, bug fixes, and functional advancements are adopted as an iterative process which is made in line with the user recommendations and best industry practices.
+A complete testing suite was created to keep Digimint bugs-free and to guarantee its infallibility. Unit tests, integration tests, and end-to-end tests were carried out to check the functionality of smart contracts and key components on the frontend. Moreover, carte-by-carte code reviews and mutually-developed evaluation of code were done to detect and resolve any problems and vulnerabilities.
 
-The DigiMint approach to implementation methodologies is focused on attaining a high level of security, scalability and user-friendliness that is perfectly suited for artists and the art collectors to use the digital art gallery.
 
+Deployment to Blockchain:
+
+Having conducted the endeavor into careful testing and quality check, DigiMint was eventually released to Ethereum Blockchain operating the Hardhat development platform. Hardhat enables smooth and simple launching of smart contracts to local and testnet platforms (Jain, 2022), that way helping programmers to verify contracts' operations before deploying to the mainnet. With its deployment, DigiMint allowed users connect to Ethereum blockchain users and providing a secure and transparent medium for purchasing, selling, and exchanging NFT digital arts.
+
+
+DigiMint's implementation was being done with the moto security, scaling, and usability so that the artists and collectors can use a user-friendly platform in the community of a digital art.
 3.4.1 Choice of Technologies
 
 The technologies used by DigiMint is very pertinent as they might determine of the efficiency, security, and scalability of the digital art gallery platform. Here, we outline the key technologies selected and the rationale behind their adoption:Here, we outline the key technologies selected and the rationale behind their adoption:
 
 Frontend Framework: ReactJS and Bootstrap in these multiple-winner elections.
 
-ReactJS: Recognized for its modular architecture, the declarative syntax, and the virtual DOM impementing, ReactJS allows developers to crease nimble and engaging UI. Its complex of libraries and backstage support that are indeed the determinants of a fast and smooth paced advance in the frontend and backend technology integration.
+ReactJS: Recognized for its modular architecture, the declarative syntax, and the virtual DOM impementing, ReactJS allows developers to crease nimble and engaging UI. Its complex of libraries and backstage support that are indeed the determinants of a fast and smooth paced advance in the frontend and backend technology integration (Sonpatki & M, 2016).
 
-Bootstrap: To drag for its nice UI components, responsive grid, to that end, Bootstrap makes frontend development easy and keeps design consistent throughout different devices and screen sizes.
+Bootstrap: To drag for its nice UI components, responsive grid, to that end, Bootstrap makes frontend development easy and keeps design consistent throughout different devices and screen sizes. (Diwan, 2022) dives in on how to use bootstrap.
 
-Backend Framework: Both Node and Express JS.
-
-Node.js: Good package to use for downloading and managing development packages 
+Node.js: Good package to use for downloading and managing development packages helping me keep them up to date to avoid package errors. (Young & Harter, 2015) dives into nodejs and practice. 
 
 Smart Contract Development: Solidity
 
-Solidity: Solidity has been chosen for its ability to work under the Ehtereum blockchain and for offering support that allows writing secure and efficient smart contracts for building the pockets apps and intelligent contract. The syntax and features of Solidity avails developers with all the functionalities to deploy accurate business logic on the Ethereum blockchain as well as tokenize represented items as non-fungible tokens (NFTs).
+Solidity: Solidity has been chosen for its ability to work under the Ehtereum blockchain and for offering support that allows writing secure and efficient smart contracts for building the pockets apps and intelligent contract (Chittoda, 2019)
+. The syntax and features of Solidity avails developers with all the functionalities to deploy accurate business logic on the Ethereum blockchain as well as tokenize represented items as non-fungible tokens (NFTs).
 
 Blockchain Infrastructure: Ethereum
 
-Ethereum: Considered to be the foundation block for digitizing Digifish, it is used due to its standing as the main platform, among other reasons such as the support for smart contracts and standards for NFTs such as ERC-721 and ERC-1155. Ethereum's decentralization and provision of unbreakable security allow peer-to-peer transaction without a need for any trust and registration making impose on digital artworks ownership and transfers on the responsible person.
+Ethereum: Considered to be the foundation block for digitizing DigiMint (Solomon, 2019), it is used due to its standing as the main platform, among other reasons such as the support for smart contracts and standards for NFTs such as ERC-721 and ERC-1155. Ethereum's decentralization and provision of unbreakable security allow peer-to-peer transaction without a need for any trust and registration making impose on digital artworks ownership and transfers on the responsible person.
 
 Testing Frameworks:  Hardhat.
 
 Hardhat: The function of the Hardhat platform is to test the Ethereum smart contracts. Furthermore, Hardhat helps to develop a workable environment and readable framework for writing and running smart contract tests. Its compatibility with the Ethereum network and its Solidity compilation and verification provide security and correctness of smart contracts implementation.
+
 3.4.2 Security Measures
 
 Securing DigiMint's platform and generating confidence among users which will enable them to escape any threats or vulnerabilities is the first priority to ensure security. Here are the security measures implemented to mitigate risks and protect sensitive data:
 
 Secure Authentication and Authorization:
 
-DigiMint has used MetaMask (a decentralized authentication and authorization service) and incorporated the it into the platform, thereby taking advantage of the Ethereum network's cryptographic algorithms to safeguard the user identification and transactions against tampering and unauthorized access.
+DigiMint has used MetaMask (a decentralized authentication and authorization service) and incorporated the it into the platform, thereby taking advantage of the Ethereum network's cryptographic algorithms to safeguard the user identification and transactions against tampering and unauthorized access.  (Zhang & Anand, 2022) explains how to use metamask and why to use it in bulding decentralized applications.
 
 Smart Contract Security Audits:
 
@@ -759,27 +712,28 @@ Security audit, testing and, vulnerability checking are some elements that are e
 
 4.4.1 Methodology
 
-Code Review: DigiMint's frontend and the backend are evaluated in flashlight to detect security holes, such as the insertion attacks, XSS and the authentication bypasses. The code will be subjected to a rigorous examination aiming at the detection of conformance to security coding practices and penetration of the already established security standards.
+Code Review: DigiMint's frontend and the backend are evaluated in flashlight to detect security holes, such as the insertion attacks. The code will be subjected to a rigorous examination aiming at the detection of conformance to security coding practices and penetration of the already established security standards.
 
-Penetration Testing: Multiple scenarios of fake intruders' penetration tests are conducted to exemplify the world attack cases to check the performance and yielding of Digimint. Existing weak security, incorrect configuration, and access control problems are looked for and exploited to know the tester’s ability to penetrate the platform and expose unauthorized access to data.
+Penetration Testing: Multiple scenarios of fake intruders' penetration tests are conducted to exemplify the world attack cases to check the performance and yielding of Digimint (Creasey & Glover, 2014). Existing weak security, incorrect configuration, and access control problems are looked for and exploited to know the tester’s ability to penetrate the platform and expose unauthorized access to data.
 
-Dependency Scanning: digimint scans are undertaken to help in detecting the vulnerabilities and security issues which might exits in the dependencies, libraries and third party components which are used. Regular tracking of dependency versions as well as patches corresponding to such findings aim to decrease the possibility of including weak code libraries into the platform's codebase.
+Dependency Scanning: Digimint scans are undertaken to help in detecting the vulnerabilities and security issues which might exits in the dependencies, libraries and third party components which are used (Ma & Mao, 2019). Regular tracking of dependency versions as well as patches corresponding to such findings aim to decrease the possibility of including weak code libraries into the platform's codebase.
 
-Security Headers and Configuration Review: Conducting audit of Digimint's security headers, the protocols of encryption, and server set ups are performed to see if these are in compliance with industry standards and best practices regarding security. Adequate application of the security header package, SSL/TLS certificates, and encryption methods are given utmost attention in safeguarding the data in use and while in storage.
+Security Headers and Configuration Review: Conducting audit of Digimint's security headers, the protocols of encryption, and server set ups are performed to see if these are in compliance with industry standards and best practices regarding security. 
 
 4.4.2 Key Focus Areas
 
-Authentication and Authorization: The work flow and the logic of DigitalMint is followed from the viewpoint of distinguishing the actions during an account or sensitive resources use in order to protect user profiles and restrict access to sensitive functionalities. Password guidelines, session follow-up, and access controls act as barriers to unwarranted exploitation and disciplinary lapse.
+Authentication and Authorization: The work flow and the logic of DigitalMint is followed from the viewpoint of distinguishing the actions during an account or sensitive resources use in order to protect user profiles and restrict access to sensitive functionalities (Spilca, 2020). Password guidelines, session follow-up, and access controls act as barriers to unwarranted exploitation and disciplinary lapse.
 
-Data Protection: Policies, procedures and cybersecurity methodologies of DigiMint are reviewed in order to ensure encryption of user data and digital assets and protect it from unauthorised access and data breaches. Encryption at rest and in transmission, e.g., data anonymization and data retention rules, which enable the end user to be secure and private.
+Data Protection: Policies, procedures and cybersecurity methodologies of DigiMint are reviewed in order to ensure encryption of user data and digital assets and protect it from unauthorised access and data breaches. Encryption at rest and in transmission, e.g., data anonymization and data retention rules, which enable the end user to be secure and private (Bainbridge, 2000)
+.
 
-Secure Communication: It becomes mandatory to put necessary mechanisms into action in order to ensure the confidential transmission of data between our clients and the servers that DigiMint owns. Checks executed to assess whether SSL/TLS configurations, validity of certificates and cipher suites are done to avoid man-in-the-middle attacks and data interception.
+Secure Communication: It becomes mandatory to put necessary mechanisms into action in order to ensure the confidential transmission of data between our clients and the servers that DigiMint owns. 
 
 4.4.3 Vulnerability Remediation
 
-Patch Management: The approach is reactive only as far as introducing a patch management strategy which is followed by immediate addressing of known security vulnerabilities. Vulnerabilities that are critical or elevated in nature are first to be patched because they are considered to be the first to be exploited if left unpatched as well as associated to a significant number of security incidents.
+Patch Management: The approach is reactive only as far as introducing a patch management strategy which is followed by immediate addressing of known security vulnerabilities (Dissanayake et al., 2022). Vulnerabilities that are critical or elevated in nature are first to be patched because they are considered to be the first to be exploited if left unpatched as well as associated to a significant number of security incidents.
 
-Security Awareness Training: Hands-on security awareness trainings are delivered to DigiMint's development team and stakeholders, to educate them about various kinds of cyber threats and to teach best practices in the security domain. Comparing with other institutions, an organizational culture that’s security conscious will,in turn,anticipate risk through proactive counter-measures and risk management.
+Security Awareness Training: Hands-on security awareness trainings are delivered to DigiMint's development team and stakeholders, to educate them about various kinds of cyber threats and to teach best practices in the security domain (Winkler, 2022). Comparing with other institutions, an organizational culture that’s security conscious will,in turn,anticipate risk through proactive counter-measures and risk management.
 
 The architecture in DigiMint is constantly subjected to the security audits and vulnerability testing by the team so that they can strengthen its defences against any cyber threats to users’ confidentiality, integrity, and availability of data and digital assets.
 
@@ -834,15 +788,15 @@ This, notwithstanding, NFT art industry keeps changing and improving over time, 
 
 At this current moment, the NFT (Non Fungible Token) art market comes with a possibility to attain its continued evolution and refinement, into several other dimensions, with several other ways for future enhancements and iterations.
 
-Interoperability and Cross-Platform Integration: Improving interconnectedness among several NFT marketplaces and blockchain networks gives an advantage for the users to move around assets with the least of difficulty. One of the main strategic approaches is to feature integration of the platforms. This would not only give artists a widespread audience. but also collectors a choice in handling their NFT portfolios.
+Interoperability and Cross-Platform Integration: Improving interconnectedness among several NFT marketplaces and blockchain networks gives an advantage for the users to move around assets with the least of difficulty. One of the main strategic approaches is to feature integration of the platforms. This would not only give artists a widespread audience. but also collectors a choice in handling their NFT portfolios (Ko et al., 2022).
 
-Improved User Experience and Accessibility: Optimizing the interface of the NFT marketplaces and the digital art platforms can be done to improve artistic and collector's user-experience. The smart interfaces, familiar onboarding procedures and the mobile-friendly applications can indeed make the NFT art more appealing to a big population of users, and it can motivate them to interact with the NFT art more frequently.
+Improved User Experience and Accessibility: Optimizing the interface of the NFT marketplaces and the digital art platforms can be done to improve artistic and collector's user-experience (Kantamneni, 2022). The smart interfaces, familiar onboarding procedures and the mobile-friendly applications can indeed make the NFT art more appealing to a big population of users, and it can motivate them to interact with the NFT art more frequently.
 
-Enhanced Copyright Protection and Intellectual Property Rights: The copyright and intellectual property rights management mechanisms, that are effective, are the key players to solve all the questions that relate to plagiarism, unauthorized use, and ownership disputes in the NFT art market. To better serve the interests of artists a blockchain technology such as smart contracts and decentralized royalties registry can see to their creations getting complete control and a fair remuneration.
+Enhanced Copyright Protection and Intellectual Property Rights: The copyright and intellectual property rights management mechanisms, that are effective, are the key players to solve all the questions that relate to plagiarism, unauthorized use, and ownership disputes in the NFT art market (Okonkwo, 2022). To better serve the interests of artists a blockchain technology such as smart contracts and decentralized royalties registry can see to their creations getting complete control and a fair remuneration.
 
-Integration of Emerging Technologies: Taking on these evolving technologies like AR (augmented reality) and VR (virtual reality) can actually strengthen the digital art experience and thus present greater potentials of immersive story telling as well interactive communication. Interweaving AR/VR applications into the NFT art landscape will undoubtedly enlarge the artistic scope of the artworks and nudge collectors towards revelling in exceptional experiences.
+Integration of Emerging Technologies: Taking on these evolving technologies like AR (augmented reality) and VR (virtual reality) can actually strengthen the digital art experience and thus present greater potentials of immersive story telling as well interactive communication. Interweaving AR/VR applications into the NFT art landscape will undoubtedly enlarge the artistic scope of the artworks and nudge collectors towards revelling in exceptional experiences. NFTS have a high potential as an evolving technology (Budania, Lodha, & Garvita, 2023).
 
-Sustainability and Environmental Considerations: Any meaningful consideration of issues that might influence long term sustainability of the NFT art market should include the environmental impact of blockchain technology. The topical discussion implies the application of eco-friendly alternatives instead of PoW, i.e. PoS or energy-efficient blockchain networks for the extent of energy consumption is lesser.
+Sustainability and Environmental Considerations: Any meaningful consideration of issues that might influence long term sustainability of the NFT art market should include the environmental impact of blockchain technology (Putnings, 2022). The topical discussion implies the application of eco-friendly alternatives instead of PoW, i.e. PoS or energy-efficient blockchain networks for the extent of energy consumption is lesser.
 
 Community Engagement and Collaboration: Enabling a thriving social environment that unites those who love, form art, develop NFTs, or collect and admire our art seems to be a key factor to the sustainability and richness of the NFT art industry. Empowering to work together, sharing knowledge, and forming participative governance are some tools that can kickstart creativeness, scale adoption, and build a enabling environment for digital artists.
 
@@ -867,14 +821,15 @@ The path of constructing the Digital Art Gallery (DigiMint) has been somehow mor
 
 Key achievements include:
 
-Development of a Scalable and User-Friendly Platform: With ReactJS and Bootstrap, we put forward the design and the implementation of the frontend interface that was user-friendly and visually pleasing in a professional manner. An interactive element built into the platform UI relieves a need to switch between screens which allows users opt for modular approach, thus delivering smoother and more accessible browsing and buying experience to all users.
+Development of a Scalable and User-Friendly Platform: With ReactJS and Bootstrap, we put forward the design and the implementation of the frontend interface that was user-friendly and visually pleasing in a professional manner. An interactive element built into the platform UI relieves a need to switch between screens which allows users opt for modular approach, thus delivering smoother and more accessible browsing and buying experience to all users (Lowdermilk, 2013).
 
-Integration of Blockchain Technology: The implementation transaction of controlled and transparent within mobile platform, it may use of blockchain technology along with Ethereum and Solidity smart contracts. Going MetaMask integration into the authenticatin and authorization of the users as well provides more of security and trust in interpersonal communication.
+Integration of Blockchain Technology: The implementation transaction of controlled and transparent within mobile platform, it may use of blockchain technology along with Ethereum and Solidity smart contracts. Going MetaMask integration into the authenticatin and authorization of the users as well provides more of security and trust in interpersonal communication (Škvorc, 2018).
 
-User Testing and Feedback Incorporation: Extensive and repetitive user testing with opportunity of providing feedback to tune up the platform features and functionality was conducted. Through stakeholders’ participation, feedbacks were addressed, and the platform usability and effectiveness was correspondingly enhanced. The platform became customized to the users, and it was a good way of addressing stakeholders concerns and suggestions.
+User Testing and Feedback Incorporation: Extensive and repetitive user testing with opportunity of providing feedback to tune up the platform features and functionality was conducted (Barnum, 2010). Through stakeholders’ participation, feedbacks were addressed, and the platform usability and effectiveness was correspondingly enhanced. The platform became customized to the users, and it was a good way of addressing stakeholders concerns and suggestions.
 
-Performance Evaluation and Optimization: The whole set detailed of performance assessment measures were employed from the site's responsiveness levels, scalability and efficiency By applying the continuous process of monitoring and latency optimization, our team was able to discover performance problems and bottlenecks early on and remove them to achieve the flawless user interaction.
-Security Audits and Vulnerability Testing: Different comprehensive functionality audit procedures and vulnerability scanning methods were provided to meet fully the security needs that were posed by a comprehensive cyber security system. Recreation of the platform on the basis of industry best practices and the implementation of strong security measures will obviously increase the stability, integrity, and capability to withstand malicious attacks. Therefore, the safety of user assets and data will be preserved.
+Performance Evaluation and Optimization: The whole set detailed of performance assessment measures were employed from the site's responsiveness levels, scalability and efficiency("Performance Evaluation," 1981). By applying the continuous process of monitoring and latency optimization, our team was able to discover performance problems and bottlenecks early on and remove them to achieve the flawless user interaction.
+
+Security Audits and Vulnerability Testing: Different comprehensive functionality audit procedures and vulnerability scanning methods were provided to meet fully the security needs that were posed by a comprehensive cyber security system  (Crawley, 2022). Recreation of the platform on the basis of industry best practices and the implementation of strong security measures will obviously increase the stability, integrity, and capability to withstand malicious attacks. Therefore, the safety of user assets and data will be preserved.
 
 Ultimately, this embodies accomplishment of the planned objectives to initiate the implementation of the Digital Art Gallery (Digimint) project. Through the implementation of top-notch technologies, user-oriented design philosophy, and the application of the most strict testing methodologies, the platform became a primary place for visiting digital art curious, artists, and collectors. Ahead, things like stimulating innovation, bringing community engagement to the table and forging strategic partnerships will be a major development that will contribute to the growth and the shaping of the platform as the first mover in the nft art market.
 
@@ -904,13 +859,14 @@ The design of the DigiMint Digital Art Gallery (DigiMint) had a big stake riding
 
 User-Centric Approach: Indeed, DigiMint gains from its client-oriented approach. Hence, during the development, artists’, collectors’s and users’ needs and preferences come foremost. Seeking opinions, performing customer research, and continuously experimenting with the same was the essence of Digi Mint’s plan that will lead to a developed intuitive and engrossing experience. Although more elaborate user testing and validation would have added more information on the user behavior and preferences, which could help to design more well-rounded solutions, further emphasis on that would have been useful for getting deeper insights.
 
-Accessibility and Inclusivity: The principle of availability and distinguishability has been included while designing the DigiMint. The platform tried to be an accessible one and it was later optimized to address different user scenarios like those with disabilities or those who are technologically challenged. Nevertheless, the next versions may include more usability-related features and accessibility items to take care of people from different walks of life and guarantee increased user happiness.
+Accessibility and Inclusivity: The principle of availability and distinguishability has been included while designing the DigiMint. The platform tried to be an accessible one and it was later optimized to address different user scenarios like those with disabilities or those who are technologically challenged (O'Connor, 2012)
+. Nevertheless, the next versions may include more usability-related features and accessibility items to take care of people from different walks of life and guarantee increased user happiness.
 
-Visual Design and Branding: The visual layout and branding of DigiMint were a key aspect as they broke down and constructed the identitiy and user experience of the platform. Our efforts were concentrated on items like colours, fonts and space arrangements in order to achieve a uniform design with good aesthetics. Larger portion on bringing original brand identity, visual language can increase sell position and brand awareness of DigiMint in competitors market of digital art.
+Visual Design and Branding: The visual layout and branding of DigiMint were a key aspect as they broke down and constructed the identitiy and user experience of the platform. Our efforts were concentrated on items like colours, fonts and space arrangements in order to achieve a uniform design with good aesthetics (Davis, 2015). Larger portion on bringing original brand identity, visual language can increase sell position and brand awareness of DigiMint in competitors market of digital art (Maulini et al., 2023).
 
 Technical Considerations: Through the design phase the provision of technical requirements as well as constraints such as on blockchain integration, security protocols and scalability was fully examined. Working together with software engineers knowledgeable of blockchain technology and cybersecurity ensured the problems encountered were handled in a solution-oriented manner so that no weaknesses were detected, and the platform had to be robust. However, throughout this time, continuous monitoring of technical infrastructure as well as continuous optimization of it will be a must to preserve smooth operation and protection of the platform.
 
-Iterative Design and Continuous Improvement: During the design cycle, a set of strategies that takes into account rapidly changing user requirements, benefiting from recent innovations, as well as the market environment was used. Feedback loops, design sprints and post-launch evaluation made it possible for the application of DigiMint to be tuned and enhanced frequently as to the features and functionalities. But, instead of placing all the responsibility on the players themselves for post-launch monitoring and optimization, it would be a good idea to create a more structured and data-driven framework for future development cycles that involve constant monitoring and tweaking the game.
+Iterative Design and Continuous Improvement: During the design cycle, a set of strategies that takes into account rapidly changing user requirements, benefiting from recent innovations, as well as the market environment was used. Feedback loops, design sprints and post-launch evaluation made it possible for the application of DigiMint to be tuned and enhanced frequently as to the features and functionalities (Larman, 2005). But, instead of placing all the responsibility on the players themselves for post-launch monitoring and optimization, it would be a good idea to create a more structured and data-driven framework for future development cycles that involve constant monitoring and tweaking the game.
 
 Over all the time, the designing team of DigiMint was trying to put user centeredness, accessibility, technical excellence and continuous improvement into their work In the psychological atmosphere, it is necessary to point out that though great strides were made in the direction of the creation of an attractive and a fully functional platform, there are lots of things left to be done in the future release. From the experience gathered in the design process, DigiMint can only reinforce its place as the primary digital market for art and that it remains beneficial to both the consumers and the users.
 
@@ -958,7 +914,7 @@ Through diligent examination of DigiMint's features, functionality as well as ch
 
 Successful planning was a key success factor in this work, as it allowed timely, comprehensive, and safe project completion, implementation, and implementation of the Digital Art Gallery (DigiMint). Key aspects of project management included:Key aspects of project management included:
 
-Project Planning and Scheduling: The project took its initial steps with a very thorough planning and scheduling in order to make the scope of the project clear, set its objectives, describe its deliverables and arrange its timelines. The project plan, including duties, deadlines, dependencies and resources, would set the structure of the project and would be regulated for controlling the process of development life cycle as well.
+Project Planning and Scheduling: The project took its initial steps with a very thorough planning and scheduling in order to make the scope of the project clear, set its objectives, describe its deliverables and arrange its timelines ("Introduction to Project Planning," 2008). The project plan, including duties, deadlines, dependencies and resources, would set the structure of the project and would be regulated for controlling the process of development life cycle as well.
 
 Agile Methodology: As agile was the adopted model, the iterative and incremental development approach was selected for the DigiMint’s system functional and performance evolution. Agile methodologies including Scrum and Kanban helped a lot with cross-functional cooperation, tactical planning, and the moment-by-moment delivery of value to the customers. As was convened by the sprint planning sessions, daily stand-ups, and the retrospective meetings, the interpersonal relations among project team members was rapidly enhanced. The transparency, communication and accountability within the project were the results of these professional interactions.
 
@@ -1077,6 +1033,84 @@ Stoilov, Rangel. Solidity Smart Contracts: Build DApps in Ethereum Blockchain. 1
 Wan, Zhiyuan et al. “Smart Contract Security: A Practitioners’ Perspective.” 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE). IEEE, 2021. 1410–1422. Web.
 
 Mitchell, Jamie L. et al. Advanced Software Testing. Volume 3 : Guide to the ISTQB Advanced Certification as an Advanced Technical Test Analyst. Ed. Michael Barabas and Judy Flynn. 2nd ed. Santa Barbara, California: Rocky Nook, 2015. Print.
+
+
+Gaur, Rajkumar et al. â€œA Machine-Learning-Blockchain-Based Authentication Using Smart Contracts for an IoHT System.â€ Sensors (Basel, Switzerland) 22.23 (2022): 9074-. Web.
+Zook, Matthew. â€œPlatforms, Blockchains and the Challenges of Decentralization.â€ Cambridge journal of regions, economy and society 16.2 (2023): 367â€“372. Web.
+
+Lee, Wei-Meng. Beginning Ethereum Smart Contracts Programming: With Examples in Python, Solidity, and JavaScript. Second edition. Berkeley, CA: Apress L. P, 2023. Web.
+
+Digital Art Masters. 1st edition. Amsterdamâ€¯; Focal Press, 2007. Web.
+Banks, Michael A., and Orson Scott. Card. On the Way to the Web the Secret History of the Internet and Its Founders. 1st ed. 2008. Berkeley, CA: Apress, 2008. Print.
+
+Pagnotta, Emiliano S. â€œDecentralizing Money: Bitcoin Prices and Blockchain Security.â€ The Review of financial studies 35.2 (2022): 866â€“907. Web.
+
+Gerasimova, Vera, Gunnar Prause, and Thomas Hoffmann. â€œNFT-Enriched Smart Contracts for Smart Circular Economy Models.â€ Entrepreneurship and Sustainability Issues 11.2 (2023): 93â€“110. Web.
+
+Minnick, Chris. Beginning React JS Foundations Building User Interfaces with React JSâ€¯: An Approachable Guide. Hoboken, NJ: John Wiley and Sons, 2022. Web.
+
+Jensen, Jeppe Schaumburg. The Missing Bootstrap 5 Guide : Customize and Extend Bootstrap 5 with Sass and JavaScript to Create Unique Website Designs. Birmingham: Packt Publishing, Limited, 2022. Print.
+
+Bradic, S. et al. â€œCreating Own NFT Token Using Erc721 Standard and Solidity Programming Language.â€ 2022 45th Jubilee International Convention on Information, Communication and Electronic Technology (MIPRO). Croatian Society MIPRO, 2022. 1053â€“1056. Web.
+
+How to Create Javascript WebSockets Subscriptions to Ethereum and Binance Smart Chain through Ethers.Js? Coventry: Normans Media Ltd, 2023. Print.
+
+N.Sangeeta, and Seung Yeob Nam. â€œBlockchain and Interplanetary File System (IPFS)-Based Data Storage System for Vehicular Networks with Keyword Search Capability.â€ Electronics (Basel) 12.7 (2023): 1545-. Web.
+O.
+Jain, Shashank Mohan. â€œHardhat.â€ A Brief Introduction to Web3. United States: Apress L. P, 2022. 167â€“179. Web.
+
+Sonpatki, Prathamesh, and Vipul A M. ReactJS by Example - Building Modern Web Applications with React. 1st ed. Birmingham: Packt Publishing, 2016. Print.
+
+Diwan, Amit. The Complete Bootstrap Beginners Course with 100+ Examples. [First edition]. Place of publication not identified: Packt Publishing, 2022. Film.
+
+Young, Alex, and Marc Harter. Node. Js in Practice. 1st edition. Shelter Island, NY: Manning Publications, 2015. Print.
+
+Chittoda, Jitendra. Mastering Blockchain Programming with Solidityâ€¯: Write Production-Ready Smart Contracts for Ethereum Blockchain with Solidity. 1st edition. Birminghamâ€¯; Packt Publishing, 2019. Print.
+
+Solomon, Michael G. Ethereum. 1st edition. Hoboken, New Jersey: John Wiley and Sons, 2019. Print.
+
+Creasey, Jason, and Ian Glover. Penetration Testing Services Procurement Guide. 1st edition. Cambridgeshire, England: CREST, 2014. Print.
+
+Ma, Li, and Jialiang Mao. â€œFisher Exact Scanning for Dependency.â€ Journal of the American Statistical Association 114.525 (2019): 245â€“258. Web.
+
+SpilcaÌ†, LaurentÌ§iu. The Spring Security Architecture for Authentication and Authorization. [First edition]. Place of publication not identified: Manning Publications, 2020. Film.
+
+Bainbridge, David I. Data Protection. Welwyn Garden City: CLT Professional Publishing, 2000. Print.
+
+Dissanayake, Nesara et al. â€œSoftware Security Patch Management - A Systematic Literature Review of Challenges, Approaches, Tools and Practices.â€ Information and software technology 144 (2022): 106771-. Web.
+
+Winkler, Ira. Security Awareness for Dummies. [First edition]. Indianapolis, IN: John Wiley & Sons, Inc., 2022. Print.
+
+Ko, Hyungjin et al. â€œThe Economic Value of NFT: Evidence from a Portfolio Analysis Using Meanâ€“Variance Framework.â€ Finance research letters 47 (2022): 102784-. Web.
+
+Kantamneni, Satyam. User Experience Designâ€¯: A Practical Playbook to Fuel Business Growth. Hoboken, NJ: John Wiley & Sons, Inc., 2022. Print.
+
+Okonkwo, Ifeanyi E. â€œNFT, Copyright and Intellectual Property Commercialization.â€ International journal of law and information technology 29.4 (2022): 296â€“304. Web.
+
+Budania, Priyanka, Gaurav Lodha, and Garvita. â€œBlockchain Based Emerging Technologies: NFTs and Crypto Currencies.â€ Academy of Marketing Studies journal 27.S5 (2023): n. pag. Print.
+
+Putnings, Markus. â€œNon-Fungible Token (NFT) in the Academia and Open Access Publishing Environment: Considerations towards Science-Friendly Scenarios.â€ The journal of electronic publishing (2022): n. pag. Web.
+
+Lowdermilk, Travis. User-Centered Designâ€¯: A Developerâ€™s Guide to Building User-Friendly Applications. Beijing: Oâ€™Reilly, 2013. Print.
+
+SÌŒkvorc, Bruno. Build Your First Ethereum DApp. 1st edition. Collingwood, VIC: SitePoint Pty, Ltd., 2018. Print.
+
+Barnum, Carol M. Usability Testing Essentials Ready, Set-- Test. 1st edition. Burlington, MA: Morgan Kaufmann Publishers, 2010. Print.
+
+Performance Evaluation. Amsterdam: North-Holland, 1981. Print.
+
+Crawley, Kim. 8 Steps to Better Securityâ€¯: A Simple Cyber Resilience Guide for Business. Hoboken, New Jersey: John Wiley & Sons, Inc., 2022. Web.
+
+O Connor, Joshue. Pro HTML5 Accessibilityâ€¯: Building an Inclusive Web. 1st ed. Berkeley, CA: Apress, 2012. Web.
+
+Maulini, Yul et al. â€œThe Influence of Visual Branding Innovation and Facility Design on Customer Value.â€ Majalah ilmiah bijak 20.2 (2023): 332â€“342. Web.
+
+Davis, Torria. Visual Design for Online Learning. 1st ed. San Francisco, California: Jossey-Bass, 2015. Print.
+
+Larman, Craig. Applying UML and Patternsâ€¯: An Introduction to Object-Oriented Analysis and Design and Iterative Development. 3rd edition. Upper Saddle River, N.J: Prentice Hall, 2005. Print.
+
+Introduction to Project Planning. Princes Risborough, Bucks: Association for Project Management, 2008. Print.
+
 
 
 
