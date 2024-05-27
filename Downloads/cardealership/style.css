@@ -1,0 +1,432 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.upperpart {
+    background-color: #f0f3f6;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    object-fit: cover;
+    width: 100%;
+    height: 100px;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+
+.navbar-links {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    align-items: center;
+}
+
+.navbar-links ul {
+    display: flex;
+    padding: 0;
+}
+
+.navbar-links li {
+    list-style: none;
+}
+
+.navbar-links li a {
+    color: rgb(159, 160, 167);
+    text-decoration: none;
+    padding: 0 20px;
+}
+
+.navbar-links li a:hover {
+    color: black;
+}
+
+.navbar-right {
+    display: flex;
+    align-items: center;
+    width: 50%;
+}
+
+.navbar-right li {
+    color: rgb(159, 160, 167);
+    text-decoration: none;
+    padding: 0 20px;
+    list-style: none;
+}
+
+.signup-button {
+    background-color: rgb(186, 101, 101);
+    padding: 15px 20px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.toggle-button {
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 21px;
+}
+
+.toggle-button .bar {
+    height: 3px;
+    width: 100%;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.upperbody {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.upperbodytext {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 50px;
+}
+
+.upperbodytext h1 {
+    font-size: 3rem;
+}
+
+.upperbodytext p {
+    padding: 10px;
+}
+
+.upperbodytext button {
+    margin-top: 10px;
+    width: 150px;
+}
+
+.upperbodyimg {
+    width: 50%;
+    padding: 20px;
+}
+
+.hdr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 2; /* Increase the z-index to bring it in front */
+}
+
+.hdr p {
+    padding: 12px;
+    width: 7%;
+}
+
+#hourly {
+    background-color: #d0d7de;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    text-align: center;
+}
+
+#distance {
+    background-color: #60608d;
+    color: white;
+    text-align: center;
+}
+
+#flatrate {
+    background-color: #d0d7de;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    text-align: center;
+}
+
+.parent-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+}
+
+.dropdownlists {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    box-shadow: 0 4px 6px -4px rgba(0, 0, 0, 0.1);
+    margin-top: -35px;
+    z-index: 1;
+    border-radius: 5px;
+}
+
+.dropdowns {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.dropdownsinner {
+    font-size: 13px;
+    padding: 6px;
+}
+
+.dropdownsicon {
+    color: rgb(122, 165, 230);
+}
+
+.dropdownsinnerdown input {
+    border: none;
+}
+
+.dropdownsline {
+    background-color: rgb(186, 184, 184);
+    height: 80px; /* Set the height of the line */
+    width: 2px; /* Set the width of the line */
+    margin-top: 5px; /* Optional: add some space above the line */
+}
+
+.dropdownlists button {
+    margin-right: 70px;
+    width: 100px;
+}
+
+.lowerpart {
+    background-color: #f0f0f0;
+    margin-top: -80px;
+    padding-top: 150px;
+}
+
+.lowerpartheading {
+    text-align: center;
+    align-items: center;
+}
+
+.lowerpartheading h3 {
+    color: rgb(186, 101, 101);
+}
+
+.lowerpartheading h1 {
+    color: #60608d;
+}
+
+.cardsection {
+    display: flex;
+    justify-content: center; /* Center the cards horizontally */
+    flex-wrap: wrap; /* Allow cards to wrap to the next line */
+    margin: 0 -10px; /* Compensate for negative margins applied to cards */
+}
+
+.card {
+    width: calc(25% - 20px); /* Adjust width calculation to accommodate for margin-right */
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 20px;
+    margin-right: 20px;
+    margin-left: 10px; /* Adjust to maintain spacing between cards */
+}
+
+.cardimage img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.cardtext {
+    padding: 20px;
+    color: #60608d;
+}
+
+.cardbtn {
+    border: 2px solid #60608d;
+    width: 25%;
+    padding: 12px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #60608d;
+    text-align: center;
+}
+
+/* Add transition properties to the card and button */
+.card,
+.cardbtn {
+    transition: background-color 0.3s ease, box-shadow 0.3s ease, color 0.3s ease;
+}
+
+.card:hover {
+    background-color: white;
+    box-shadow: 0 6px 10px -4px rgba(0, 0, 0, 0.2);
+}
+
+.card:hover .cardbtn {
+    color: white;
+    border: none;
+    background-color: rgb(186, 101, 101);
+}
+
+.cardbtn:hover {
+    background-color: rgb(186, 101, 101);
+    color: white;
+    border: none;
+}
+
+/* Responsive styles within a media query */
+@media (max-width: 768px) {
+    body, html {
+        width: 100%;
+        overflow-x: hidden; /* Prevent horizontal scrolling */
+    }
+
+    .navbar {
+        height: auto;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px;
+        width: 100%;
+    }
+
+    .logo {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .navbar-links {
+        display: none;
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .navbar-links ul {
+        flex-direction: column;
+        width: 100%;
+        padding: 0;
+    }
+
+    .navbar-links ul li {
+        text-align: center;
+        padding: 10px 0;
+        width: 100%;
+    }
+
+    .navbar-right {
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .signup-button {
+        margin-top: 10px;
+        width: 100%;
+    }
+
+    .toggle-button {
+        display: flex;
+        margin-right: 20px;
+        align-self: flex-end;
+    }
+
+    .upperbody {
+        flex-wrap: wrap;
+    }
+
+    .upperbodytext {
+        width: 100%;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .upperbodytext h1 {
+        font-size: 2rem;
+    }
+
+    .upperbodytext button {
+        width: 100%;
+    }
+
+    .upperbodyimg {
+        width: 100%;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .hdr {
+        flex-direction: column;
+    }
+
+    .hdr p {
+        width: 100%;
+        margin: 5px 0;
+    }
+
+    .parent-container {
+        padding: 10px;
+    }
+
+    .dropdownlists {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .dropdowns {
+        width: 100%;
+        padding: 15px;
+        align-items: center;
+    }
+
+    .dropdownsinner {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .dropdownsline {
+        width: 90%;
+        height: 1px;
+    }
+
+    .dropdownlists button {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .lowerpart {
+        padding: 20px;
+    }
+
+    .lowerpartheading {
+        padding: 10px;
+    }
+
+    .cardsection {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .cardbtn {
+        width: 100%;
+        text-align: center;
+    }
+}
